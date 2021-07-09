@@ -1,0 +1,5 @@
+1610350276475	Extract local variable 'list'
+1610350983008	Extract local variable 'list'
+1610351162691	Extract local variable 'selById'
+1610419654673	Extract local variable 'selByItemCatId'
+1610434022273	Extract local variable 'index'

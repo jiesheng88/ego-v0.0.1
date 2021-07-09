@@ -1,0 +1,15 @@
+1611580900892	Delete elements
+1611581119701	Rename resource 'footer(1).jsp'
+1611645203126	Extract local variable 'list'
+1611645293901	Extract local variable 'ca'
+1611645330898	Extract local variable 'desc'
+1611645492927	Copy file
+1611669837935	Extract local variable 'list'
+1611670207499	Extract local variable 'imsges'
+1611751067236	Extract local variable 'selByQuery'
+1611755044140	Extract local variable 'client'
+1611755683930	Extract local variable 'response'
+1611755782371	Extract local variable 'str'
+1611838004868	Extract local variable 'result'
+1611981851120	Copy compilation unit
+1611982160598	Delete element

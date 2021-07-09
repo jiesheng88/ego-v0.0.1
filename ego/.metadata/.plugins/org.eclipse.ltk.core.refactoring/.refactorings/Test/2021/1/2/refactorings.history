@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;parseInt&apos; from expression &apos;Integer.parseInt(&quot;12&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;Test&apos;&#x0D;&#x0A;- Variable name: &apos;parseInt&apos;&#x0D;&#x0A;- Destination method: &apos;com.jie.test.Test.main()&apos;&#x0D;&#x0A;- Variable expression: &apos;Integer.parseInt(&quot;12&quot;)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;parseInt&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.jie.test{Test.java" name="parseInt" replace="true" selection="145 0" stamp="1610102027871" version="1.0"/>
+</session>

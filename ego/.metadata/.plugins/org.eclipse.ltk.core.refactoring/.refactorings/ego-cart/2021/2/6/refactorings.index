@@ -1,0 +1,22 @@
+1612322259368	Delete elements
+1612322366467	Rename resource 'header(1).jsp'
+1612341167621	Extract local variable 'cookieValue'
+1612341484168	Extract local variable 'doPostJson'
+1612341533359	Extract local variable 'er'
+1612423025450	Extract local variable 'item'
+1612423250615	Extract local variable 'images'
+1612423838932	Extract local variable 'cookieValue'
+1612423973541	Extract local variable 'json'
+1612423996680	Extract local variable 'er'
+1612424264028	Extract local variable 'doPost'
+1612424291558	Extract local variable 'er'
+1612424834518	Extract local variable 'value'
+1612426414917	Extract local variable 'value'
+1612426451895	Extract local variable 'list'
+1612426534010	Extract local variable 'list'
+1612429148085	Delete element
+1612429228529	Delete element
+1612430372660	Extract local variable 'result'
+1612430404157	Extract local variable 'list'
+1612430544213	Extract local variable 'ok'
+1612508459721	Copy package

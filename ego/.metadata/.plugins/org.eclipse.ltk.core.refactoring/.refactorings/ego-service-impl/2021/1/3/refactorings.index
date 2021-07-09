@@ -1,0 +1,5 @@
+1610349107740	Extract local variable 'list'
+1610349365924	Extract local variable 'list'
+1610353311993	Extract local variable 'idList'
+1610418552281	Extract local variable 'selectByExampleWithBLOBs'
+1610433882763	Extract local variable 'index'

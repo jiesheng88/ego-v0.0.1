@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;selectByExampleWithBLOBs&apos; from expression &apos;tbItemParamItemMapper.selectByExampleWithBLOBs(example)&apos;&#x0D;&#x0A;- Original project: &apos;ego-service-impl&apos;&#x0D;&#x0A;- Variable name: &apos;selectByExampleWithBLOBs&apos;&#x0D;&#x0A;- Destination method: &apos;com.ego.dubbo.service.impl.TbItemParamItemDubboServiceImpl.selById()&apos;&#x0D;&#x0A;- Variable expression: &apos;tbItemParamItemMapper.selectByExampleWithBLOBs(example)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;selectByExampleWithBLOBs&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.ego.dubbo.service.impl{TbItemParamItemDubboServiceImpl.java" name="selectByExampleWithBLOBs" replace="true" selection="659 0" stamp="1612087910349" version="1.0"/>
+</session>

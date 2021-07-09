@@ -1,0 +1,8 @@
+1611982332883	Extract local variable 'item'
+1611982465833	Extract local variable 'image'
+1611982627460	Extract local variable 'child'
+1611992699891	Extract local variable 'string'
+1611997247120	Extract local variable 'selById'
+1611997314676	Extract local variable 'selById'
+1611997480414	Extract local variable 'value'
+1611997605320	Extract local variable 'result'

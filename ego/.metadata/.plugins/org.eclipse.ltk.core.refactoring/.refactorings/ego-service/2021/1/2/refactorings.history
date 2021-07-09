@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.ego.dubbo.service.TbItemDescService.java&apos; to &apos;TbItemDescDubboService.java&apos;&#x0D;&#x0A;- Original project: &apos;ego-service&apos;&#x0D;&#x0A;- Original element: &apos;com.ego.dubbo.service.TbItemDescService.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ego.dubbo.service.TbItemDescDubboService.java&apos;" description="Rename compilation unit &apos;TbItemDescService.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.ego.dubbo.service{TbItemDescService.java" name="TbItemDescDubboService.java" references="false" stamp="1610178201253" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+1611488575552	Extract local variable 'query'
+1611488643890	Extract local variable 'results'
+1611489371403	Extract local variable 'highlighting'
+1611489868876	Extract local variable 'map'
+1611489937823	Extract local variable 'list'

@@ -1,0 +1,6 @@
+1612183274301	Delete elements
+1612183507975	Rename type 'T'
+1612232726909	Extract local variable 'userSelected'
+1612254344787	Extract local variable 'result'
+1612254427711	Extract local variable 'jsonToPojo'
+1612254999626	Extract local variable 'er'

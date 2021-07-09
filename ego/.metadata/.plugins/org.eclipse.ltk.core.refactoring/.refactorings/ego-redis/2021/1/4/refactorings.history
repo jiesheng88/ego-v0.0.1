@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ego.redis.Dao&apos; to &apos;com.ego.redis.dao&apos;&#x0D;&#x0A;- Original project: &apos;ego-redis&apos;&#x0D;&#x0A;- Original element: &apos;ego-redis/src/main/java/com.ego.redis.Dao&apos;&#x0D;&#x0A;- Renamed element: &apos;ego-redis/src/main/java/com.ego.redis.dao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ego.redis.Dao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.ego.redis.Dao" name="com.ego.redis.dao" qualified="false" references="true" stamp="1611316937440" textual="false" version="1.0"/>
+</session>

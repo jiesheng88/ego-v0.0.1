@@ -1,0 +1,12 @@
+1609851881282	Delete elements
+1609985356484	Rename package 'com.ego.controller'
+1609985367875	Rename type 'Test'
+1610010171513	Extract local variable 'idsStr'
+1610010357029	Extract local variable 'i'
+1610010783979	Extract local variable 'index'
+1610071969685	Extract local variable 'show'
+1610072644252	Extract local variable 'show'
+1610179974239	Extract local variable 'index'
+1610180256444	Extract local variable 'index'
+1610198286875	Extract local variable 'index'
+1610198401073	Extract local variable 'index'

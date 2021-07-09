@@ -1,0 +1,11 @@
+package com.jie.test;
+
+public class Test {
+	public static void main(String[] args) {
+		//161096841776288
+		System.out.println(Long.MAX_VALUE);
+	}
+
+}
+
+
